@@ -1,12 +1,12 @@
-# Código de Conducta del Covenant de Contribuidores
+# Código de conducta del covenant de contribuidores
 
-## Nuestro Compromiso
+## Nuestro compromiso
 
 Como miembros, contribuyentes y líderes, nos comprometemos a hacer que la participación en nuestra comunidad sea una experiencia libre de acoso para todos, independientemente de la edad, tamaño corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estado socioeconómico, nacionalidad, apariencia personal, raza, religión, o identidad y orientación sexual.
 
 Nos comprometemos a actuar e interactuar de manera que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y saludable.
 
-## Nuestros Estándares
+## Nuestros estándares
 
 Ejemplos de comportamientos que contribuyen a un entorno positivo para nuestra comunidad incluyen:
 
@@ -24,7 +24,7 @@ Ejemplos de comportamientos inaceptables incluyen:
 * Publicar información privada de otros, como una dirección física o de correo electrónico, sin su permiso explícito.
 * Otro comportamiento que pueda considerarse inapropiado en un entorno profesional.
 
-## Responsabilidades de Aplicación
+## Responsabilidades de aplicación
 
 Los líderes de la comunidad son responsables de clarificar y hacer cumplir nuestros estándares de comportamiento aceptable y tomar medidas correctivas apropiadas y justas en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
 
@@ -40,7 +40,7 @@ Los casos de comportamiento abusivo, acosador u otro comportamiento inaceptable 
 
 Todos los líderes de la comunidad están obligados a respetar la privacidad y seguridad del reportador de cualquier incidente.
 
-## Directrices de Aplicación
+## Directrices de aplicación
 
 Los líderes de la comunidad seguirán estas Directrices de Impacto Comunitario al determinar las consecuencias para cualquier acción que consideren en violación de este Código de Conducta:
 
@@ -56,13 +56,13 @@ Los líderes de la comunidad seguirán estas Directrices de Impacto Comunitario 
 
 **Consecuencia**: Advertencia con consecuencias por comportamiento continuo. No interacción con las personas involucradas, incluyendo interacción no solicitada con quienes hacen cumplir el Código de Conducta, durante un período de tiempo especificado. Esto incluye evitar interacciones en espacios comunitarios así como canales externos como redes sociales. Violaciones a estos términos pueden llevar a una prohibición temporal o permanente.
 
-### 3. Prohibición Temporal
+### 3. Prohibición temporal
 
 **Impacto Comunitario**: Una violación grave de los estándares comunitarios, incluyendo comportamiento inapropiado sostenido.
 
 **Consecuencia**: Prohibición temporal de cualquier tipo de interacción o comunicación pública con la comunidad por un período de tiempo especificado. No se permite interacción pública o privada con las personas involucradas, incluyendo interacción no solicitada con quienes hacen cumplir el Código de Conducta, durante este período. Violaciones a estos términos pueden llevar a una prohibición permanente.
 
-### 4. Prohibición Permanente
+### 4. Prohibición permanente
 
 **Impacto Comunitario**: Demostrar un patrón de violación de los estándares comunitarios, incluyendo comportamiento inapropiado sostenido, acoso a un individuo o agresión hacia o desprecio de clases de individuos.
 
