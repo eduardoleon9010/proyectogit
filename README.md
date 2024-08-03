@@ -1,6 +1,6 @@
-# Proyecto Final en GitHub
+# Proyecto final en GitHub
 
-Un calculador que calcula el interés simple dado el capital, la tasa de interés anual y el período de tiempo en años.
+Una calculadora del interés simple dado el capital, la tasa de interés anual y el período de tiempo en años.
 
 **Entrada:**
    - `p`: monto del capital
